@@ -5,4 +5,4 @@ This is only a holder for VDM. Here are the working links for the app:
 
 [VDM (ImGui version)](https://github.com/azguesty/VDM-ImGui-);
 #
-For the list of supported sites, click [here]
+For the list of supported sites, click [here](https://github.com/azguesty/VDM/blob/main/SupportedSites.md)
